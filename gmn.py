@@ -119,7 +119,7 @@ Once you have the API key, pass it to the SDK. You can do this in two ways:
 
 # Or use `os.getenv('GOOGLE_API_KEY')` to fetch an environment variable.
 
-# ㄴ
+# s
 #GOOGLE_API_KEY=""
 
 #GOOGLE_API_KEY=userdata.get('GOOGLE_API_KEY')
